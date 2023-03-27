@@ -1,0 +1,139 @@
+student_id,last_name,first_name,sca_1,sca_2,sca_3,sca_avg,staar_curr,staar_curr_clas
+1,Tahleel Ahmed,Michael,41.7,61.1,,51.4,1433,Did Not Meet Grade Level
+2,Nicholas Anderton,Christopher,50,44.4,,47.2,1578,Did Not Meet Grade Level
+3,Janis Ashton,Jessica,50,50,,50,1578,Did Not Meet Grade Level
+4,Paola Bacigalupo,Matthew,58,44,50,50.7,1513,Did Not Meet Grade Level
+5,Adrian Barlow,Ashley,33,39,71,47.7,1540,Did Not Meet Grade Level
+6,Kenneth Bartlett,Jennifer,50,27.8,,38.9,1603,Approaches Grade Level
+7,Simon Beck,Joshua,null,22,21,21.5,1414,Did Not Meet Grade Level
+8,Winston Beckett,Amanda,16.7,38.9,,27.8,null,null
+9,Mary Bedson,Daniel,67,89,88,81.3,1823,Meets Grade Level
+10,Deborah Bellamy,David,58.3,44.4,,51.35,1603,Approaches Grade Level
+11,Mark Brown,James,33.3,38.9,,36.1,null,null
+12,Vivian Brown,Robert,33.3,38.9,,36.1,null,null
+13,Jeremy Browne,John,25,11.1,,18.05,1513,Did Not Meet Grade Level
+14,Edward Burden,Joseph,33,33,29,31.7,1553,Did Not Meet Grade Level
+15,Gerard Burton,Andrew,0,11.1,,5.55,null,null
+16,Julia Cable,Ryan,33.3,null,,33.3,1513,Did Not Meet Grade Level
+17,Darren Charles,Brandon,17,22,46,28.3,1468,Did Not Meet Grade Level
+18,Rochelle Cherry,Jason,16.7,null,,16.7,null,null
+19,Fatema Choudhury,Justin,0,22.2,,11.1,1484,Did Not Meet Grade Level
+20,Anthony Clark,Sarah,33.3,44.4,,38.85,1433,Did Not Meet Grade Level
+21,Peter Claus,William,8,56,42,35.3,1527,Did Not Meet Grade Level
+22,Andy Claypole,Jonathan,25,16.7,,20.85,1433,Did Not Meet Grade Level
+23,Kaysha Cole,Stephanie,25,61,38,41.3,1603,Approaches Grade Level
+24,Michael Cooper,Brian,8.3,null,,8.3,null,null
+25,John Curran,Nicole,42,67,63,57.3,1802,Meets Grade Level
+26,Sandra Davies,Nicholas,25,77.8,,51.4,1527,Did Not Meet Grade Level
+27,Anthony Delaney,Anthony,33.3,33.3,,33.3,1513,Did Not Meet Grade Level
+28,Patrick Doherty,Heather,33.3,16.7,,25,1578,Did Not Meet Grade Level
+29,Frances Donohoe,Eric,16.7,22.2,,19.45,1527,Did Not Meet Grade Level
+30,Geoffrey Dunbar,Elizabeth,34,44,25,34.3,1540,Did Not Meet Grade Level
+31,Kimberley Durling,Adam,16.7,16.7,,16.7,1566,Did Not Meet Grade Level
+32,Angela Dutton,Megan,83.3,55.6,,69.45,1734,Meets Grade Level
+33,Norman Elkington,Melissa,42,61,null,51.5,null,null
+34,Janet Evans,Kevin,null,44.4,,44.4,1451,Did Not Meet Grade Level
+35,Barry Fogg,Steven,25,33.3,,29.15,1392,Did Not Meet Grade Level
+36,Farina Fong,Thomas,50,89,100,79.7,1749,Meets Grade Level
+37,Adrienne Frost,Timothy,25,44.4,,34.7,1578,Did Not Meet Grade Level
+38,Cynthia Gilbert,Christina,null,38.9,,38.9,1652,Approaches Grade Level
+39,Donald Gillies,Kyle,16.7,22.2,,19.45,1433,Did Not Meet Grade Level
+40,Jonathan Godfrey,Rachel,25,22.2,,23.6,1499,Did Not Meet Grade Level
+41,Dev Gupta,Laura,50,22.2,,36.1,1615,Approaches Grade Level
+42,Ian Harris,Lauren,50,83.3,,66.65,1484,Did Not Meet Grade Level
+43,Moira Harrison,Amber,17,56,63,45.3,1719,Meets Grade Level
+44,Russell Havard,Brittany,50,66.7,,58.35,1484,Did Not Meet Grade Level
+45,Gary Hawkins,Danielle,null,null,null,null,null,null
+46,Terence Haynes,Richard,50,44.4,,47.2,1527,Did Not Meet Grade Level
+47,Duncan Hiles,Kimberly,50,33.3,,41.65,1652,Approaches Grade Level
+48,Graham Hill,Jeffrey,42,39,54,45,1640,Approaches Grade Level
+49,Rebecca Hitchen,Amy,null,11.1,,11.1,1484,Did Not Meet Grade Level
+50,Christine Holifield,Crystal,null,44.4,,44.4,1627,Approaches Grade Level
+51,Derrick Hough,Michelle,58.3,55.6,,56.95,1615,Approaches Grade Level
+52,Steven Hubbard,Tiffany,16.7,null,,16.7,null,null
+53,Aaron Hughes,Jeremy,16.7,55.6,,36.15,null,null
+54,Gordon Hunter,Benjamin,17,null,17,17,1566,Did Not Meet Grade Level
+55,William Hutchinson,Mark,8.3,null,,8.3,null,null
+56,Barry John,Emily,null,44,25,34.5,1484,Did Not Meet Grade Level
+57,Douglas Jones,Aaron,25,16.7,,20.85,1499,Did Not Meet Grade Level
+58,Michael Jones,Charles,25,11.1,,18.05,null,null
+59,Terence Keenan,Rebecca,33.3,44.4,,38.85,1603,Approaches Grade Level
+60,Lydia Kelly,Jacob,41.7,16.7,,29.2,1513,Did Not Meet Grade Level
+61,Michael Kelly,Stephen,8,28,46,27.3,1652,Approaches Grade Level
+62,Mohammed Khan,Patrick,16.7,33.3,,25,1499,Did Not Meet Grade Level
+63,Ulfat Kiani,Sean,8.3,null,,8.3,1540,Did Not Meet Grade Level
+64,David Kinloch,Erin,33.3,38.9,,36.1,1513,Did Not Meet Grade Level
+65,Helen Lane,Zachary,25,16.7,,20.85,1468,Did Not Meet Grade Level
+66,Stephen Langtry,Jamie,null,null,25,25,1451,Did Not Meet Grade Level
+67,Alan Lee,Kelly,58.3,83.3,,70.8,1578,Did Not Meet Grade Level
+68,Patrick Lyons,Samantha,66.7,50,,58.35,1595,Approaches Grade Level
+69,Fay MacAllister,Nathan,8.3,66.7,,37.5,1468,Did Not Meet Grade Level
+70,Timothy Maguire,Sara,null,null,,null,null,null
+71,Ashwani Masson,Dustin,33.3,27.8,,30.55,null,null
+72,Ivan Mateer,Paul,17,null,null,17,null,null
+73,David McAlpine,Angela,25,61,63,49.7,1652,Approaches Grade Level
+74,Gary McGeady,Tyler,58,72,75,68.3,1678,Approaches Grade Level
+75,Grant McNeill,Scott,25,33.3,,29.15,null,null
+76,Timothy McSharry,Katherine,42,28,38,36,1468,Did Not Meet Grade Level
+77,Ashley Mellor,Andrea,25,66.7,,45.85,1603,Approaches Grade Level
+78,Serge Moreau,Gregory,41.7,55.6,,48.65,1640,Approaches Grade Level
+79,Susan Morris,Erica,41.7,44.4,,43.05,1640,Approaches Grade Level
+80,Charles Munro,Mary,33.3,77.8,,55.55,1578,Did Not Meet Grade Level
+81,Maurice Murphy,Travis,25,66.7,,45.85,1513,Did Not Meet Grade Level
+82,Peter Murphy,Lisa,25,38.9,,31.95,1513,Did Not Meet Grade Level
+83,Georgina Nelson,Kenneth,17,39,42,32.7,1627,Approaches Grade Level
+84,Douglas Odam,Bryan,67,67,71,68.3,1553,Did Not Meet Grade Level
+85,Stephen Palmer,Lindsey,17,33,88,46,1513,Did Not Meet Grade Level
+86,John Parish,Kristen,33.3,33.3,,33.3,1513,Did Not Meet Grade Level
+87,Harold Patten,Jose,null,83.8,,83.8,1513,Did Not Meet Grade Level
+88,Dorothy Payne,Alexander,41.7,55.6,,48.65,1652,Approaches Grade Level
+89,Eunice Pennington,Jesse,33.3,38.9,,36.1,1513,Did Not Meet Grade Level
+90,Andrew Phelps,Katie,50,67,null,58.5,null,null
+91,Jr Plater,Lindsay,41.7,22.2,,31.95,1513,Did Not Meet Grade Level
+92,Paul Powell,Shannon,33.3,88.9,,61.1,1540,Did Not Meet Grade Level
+93,Jonathan Pulford,Vanessa,null,33,42,37.5,1513,Did Not Meet Grade Level
+94,Narinder Randhawa,Courtney,50,27.8,,38.9,1484,Did Not Meet Grade Level
+95,Daniel Rhodes,Christine,50,50,,50,1595,Approaches Grade Level
+96,Leon Rice,Alicia,83,94,83,86.7,1700,Meets Grade Level
+97,Paul Riley,Cody,16.7,null,,16.7,null,null
+98,Douglas Robertson,Allison,null,null,58,58,1527,Did Not Meet Grade Level
+99,Simon Rogan,Bradley,33.3,22.2,,27.75,1527,Did Not Meet Grade Level
+100,Tim Rollinson,Samuel,null,null,50,50,null,null
+101,Darryl Rose,Shawn,41.7,38.9,,40.3,1513,Did Not Meet Grade Level
+102,Sonny Samuel,April,67,83,71,73.7,1678,Approaches Grade Level
+103,Rory Sanders,Derek,null,null,13,13,null,null
+104,Ian Sayers,Kathryn,null,null,30,30,null,null
+105,Ralph Seymour,Kristin,16.7,null,,16.7,null,null
+106,Susan Shanks,Chad,8.3,16.7,,12.5,null,null
+107,Allen Shaw,Jenna,33.3,38.9,,36.1,null,null
+108,Paul Slater,Tara,33,67,79,59.7,1652,Approaches Grade Level
+109,Duncan Smith,Maria,8,28,50,28.7,1499,Did Not Meet Grade Level
+110,Michael Smith,Krystal,null,17,null,17,null,null
+111,Roy Smith,Jared,17,null,25,21,1484,Did Not Meet Grade Level
+112,Dave Speedy,Anna,33,61,58,50.7,1578,Did Not Meet Grade Level
+113,James Stewart,Edward,58.3,66.7,,62.5,1578,Did Not Meet Grade Level
+114,Michele Thomas,Julie,25,27.8,,26.4,1603,Approaches Grade Level
+115,Andrew Thompson,Peter,16.7,55.6,,36.15,1527,Did Not Meet Grade Level
+116,Stuart Thomson,Holly,8.3,22.2,,15.25,1540,Did Not Meet Grade Level
+117,Sacha Vincent,Marcus,null,null,33,33,1451,Did Not Meet Grade Level
+118,Mathew Walker,Kristina,58.3,27.8,,43.05,1540,Did Not Meet Grade Level
+119,Caroline Walsh,Natalie,67,72,63,67.3,1615,Approaches Grade Level
+120,Jane Warr,Jordan,25,null,,25,1484,Did Not Meet Grade Level
+121,Craig Webster,Victoria,33.3,33.3,,33.3,1513,Did Not Meet Grade Level
+122,Robert Webster,Jacqueline,16.7,50,,33.35,1414,Did Not Meet Grade Level
+123,Ronald White,Corey,83,50,50,61,1527,Did Not Meet Grade Level
+124,Barrington Whiteley,Keith,null,null,25,25,null,null
+125,Alison Williams,Monica,50,50,,50,1484,Did Not Meet Grade Level
+126,Julia Williams,Juan,16.7,38.9,,27.8,1540,Did Not Meet Grade Level
+127,Paull Williams,Donald,8.3,null,,8.3,1414,Did Not Meet Grade Level
+128,Shiela Wylie,Cassandra ,16.7,22.2,,19.45,1468,Did Not Meet Grade Level
+129,Pierre Wysocki,Sion,,27.8,,27.8,1468,Did Not Meet Grade Level
+130,Paul Young,Darcey,50,5.6,,27.8,1433,Did Not Meet Grade Level
+131,Helen Brewer,Kira,8.3,22.2,,15.25,1578,Did Not Meet Grade Level
+132,Mark Davidson,Hasan,16.7,44.4,,30.55,1540,Did Not Meet Grade Level
+133,Gary Entwisle,Keelan,50,22.2,,36.1,1513,Did Not Meet Grade Level
+134,Alexandra Evans,Darius,33.3,16.7,,25,1513,Did Not Meet Grade Level
+135,Gillian Geddes,Amira,34,61,75,56.7,1678,Approaches Grade Level
+136,Matthew Harris,Olivier,25,55.6,,40.3,1678,Approaches Grade Level
+137,Trevor James,Kadie,25,11.1,,18.05,1513,Did Not Meet Grade Level
+138,Alistair Johnston,Roy,58,56,100,71.3,1700,Meets Grade Level
